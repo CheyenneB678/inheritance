@@ -20,6 +20,9 @@ public:
 	string getManufacturer() const;
 	int getYearBuilt(int year);
 
+	void setManufacturer(string manufacturer);
+	void setYearBuilt(int year);
+
 	virtual void displayInfo() const;
 };
 
