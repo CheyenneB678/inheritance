@@ -16,7 +16,7 @@ int main() {
 	string manufacturer;
 	int year, doors, towing;
 
-	cout << "Vehicle Program";
+	cout << "Vehicle Program\n\n\n";
 
 	//Vehicle
 	cout << "Vehicle Info/nEnter manufacturer: ";
