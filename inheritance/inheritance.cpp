@@ -16,6 +16,8 @@ int main() {
 	string manufacturer;
 	int year, doors, towing;
 
+	cout << "Vehicle Program";
+
 	//Vehicle
 	cout << "Vehicle Info/nEnter manufacturer: ";
 	getline(cin, manufacturer);
