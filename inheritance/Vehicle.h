@@ -7,8 +7,7 @@
 using namespace std;
 
 
-class Vehicle
-{
+class Vehicle{
 private:
 	string manufacturer;
 	int yearBuilt;
