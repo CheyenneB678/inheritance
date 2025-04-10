@@ -11,7 +11,7 @@ private:
 
 public:
 	Truck();
-	Truck(string manufacturer, int year, int towingCapacity);
+	Truck(string manufacturer, int year, int capacity);
 
 	int getTowingCapacity() const;
 	void setTowingCapacity(int capacity);
